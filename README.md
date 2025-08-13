@@ -7,22 +7,22 @@ ________________________________________________________________________________
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b2113ae5-1fcd-42a8-9903-0649893af8b6" />
 Funcionalidades
 
-Adicionar e remover participantes
+* Adicionar e remover participantes
 
-Sorteio Aleatório
+* Sorteio Aleatório
 
-Muita diversão
+* Muita diversão
 
 ________________________________________________________________________________________________________________________________________
 
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/c9aa1ddc-7a40-4d8d-add6-8f9ec0eb299e" />
 Tecnologias Utilizadas
 
-HTML
+* HTML
 
-CSS3
+* CSS3
 
-JavaScript
+* JavaScript
 
 ________________________________________________________________________________________________________________________________________
 
